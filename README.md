@@ -17,7 +17,7 @@ Un juego web interactivo en el que debes destruir orbes mágicas antes de que se
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
-- CSS3 con [TailwindCSS](https://tailwindcss.com/)
+- TailwindCSS
 - JavaScript
 - Google Fonts (Orbitron)
 
