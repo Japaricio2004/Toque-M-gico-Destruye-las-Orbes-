@@ -21,10 +21,6 @@ Un juego web interactivo en el que debes destruir orbes mágicas antes de que se
 - JavaScript
 - Google Fonts (Orbitron)
 
-## 📷 Captura de Pantalla
-
-![Screenshot del juego](ruta/a/tu/captura.png)
-
 ## 🚀 Cómo jugar
 
 1. Abre el archivo `index.html` en tu navegador.
