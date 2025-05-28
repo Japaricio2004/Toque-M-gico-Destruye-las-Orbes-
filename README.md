@@ -2,28 +2,25 @@
 
 Un juego web interactivo en el que debes destruir orbes mágicas antes de que se acabe el tiempo. ¡Pon a prueba tu velocidad y reflejos!
 
-## 🎮 Descripción
+## 🔗 Juega ahora
 
-"Toque Mágico" es un juego simple y adictivo hecho con HTML, CSS (Tailwind) y JavaScript. El objetivo es destruir la mayor cantidad de orbes posibles haciendo clic sobre ellas en un límite de 30 segundos. ¡Compite contra ti mismo para batir tu récord!
+👉 [https://magic-touch-game.netlify.app/](https://magic-touch-game.netlify.app/)
 
-## 🧩 Características
+## 🧩 Descripción
 
-- Animaciones suaves y efectos visuales llamativos.
-- Contador de puntaje y récord personal.
-- Temporizador de 30 segundos por partida.
-- Diseño responsive para dispositivos móviles y de escritorio.
-- Estilo retro-futurista con la fuente **Orbitron**.
+"Toque Mágico" es un juego simple y adictivo hecho con HTML, TailwindCSS y JavaScript. El objetivo es hacer clic sobre tantas orbes como puedas en 30 segundos. ¡Supera tu propio récord cada vez!
 
 ## 🛠️ Tecnologías utilizadas
 
-- HTML5
-- TailwindCSS
-- JavaScript
+- HTML5  
+- TailwindCSS  
+- JavaScript  
 - Google Fonts (Orbitron)
 
 ## 🚀 Cómo jugar
 
-1. Abre el archivo `index.html` en tu navegador.
-2. Haz clic en el botón **Iniciar Juego**.
-3. Haz clic sobre todas las orbes que puedas antes de que acabe el tiempo.
-4. ¡Tu puntaje se actualizará automáticamente!
+1. Haz clic en "Iniciar Juego".
+2. Toca las orbes mágicas lo más rápido posible antes de que termine el tiempo.
+3. Observa tu puntaje y récord al finalizar.
+
+
