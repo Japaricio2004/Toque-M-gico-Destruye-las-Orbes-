@@ -23,4 +23,7 @@ Un juego web interactivo en el que debes destruir orbes mágicas antes de que se
 2. Toca las orbes mágicas lo más rápido posible antes de que termine el tiempo.
 3. Observa tu puntaje y récord al finalizar.
 
+💡 Autor
 
+- Desarrollado por Jorge Aparicio
+- Estudiante de Ingeniería de Software | USIL
